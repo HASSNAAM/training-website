@@ -10,9 +10,6 @@
 body {
   overflow-x: hidden;
 }
-.navbar-toggler {
-  outline: none;
-}
 .custom-navbar {
   background-color: #0000009a;
 }
